@@ -1,0 +1,1004 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Inferno",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2013,
+      "bestseller": true,
+      "description": "Um thriller envolvendo símbolos e mistérios em Florença",
+      "rating": 4.2
+    },
+    {
+      "id": 2,
+      "title": "O Código Da Vinci",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2003,
+      "bestseller": true,
+      "description": "Mistério envolvendo arte e religião",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "title": "It - A Coisa",
+      "author": "Stephen King",
+      "genre": "Terror",
+      "year": 1986,
+      "bestseller": true,
+      "description": "Horror sobre uma entidade que aterroriza uma cidade",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "title": "O Iluminado",
+      "author": "Stephen King",
+      "genre": "Terror",
+      "year": 1977,
+      "bestseller": true,
+      "description": "Terror psicológico em um hotel isolado",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "title": "Cemitério Maldito",
+      "author": "Stephen King",
+      "genre": "Terror",
+      "year": 1983,
+      "bestseller": true,
+      "description": "Horror sobre um cemitério com poderes sobrenaturais",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Ficção Científica",
+      "year": 1949,
+      "bestseller": true,
+      "description": "Distopia sobre vigilância e controle totalitário",
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "title": "Anjos e Demônios",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2000,
+      "bestseller": true,
+      "description": "Thriller científico no Vaticano",
+      "rating": 4.1
+    },
+    {
+      "id": 8,
+      "title": "Carrie",
+      "author": "Stephen King",
+      "genre": "Terror",
+      "year": 1974,
+      "bestseller": false,
+      "description": "Terror sobre uma adolescente com poderes telecinéticos",
+      "rating": 4.0
+    },
+    {
+      "id": 9,
+      "title": "O Poder do Agora",
+      "author": "Eckhart Tolle",
+      "genre": "Autoajuda",
+      "year": 1997,
+      "bestseller": true,
+      "description": "Guia espiritual para viver no momento presente",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "title": "Como Fazer Amigos e Influenciar Pessoas",
+      "author": "Dale Carnegie",
+      "genre": "Autoajuda",
+      "year": 1936,
+      "bestseller": true,
+      "description": "Clássico sobre relacionamentos interpessoais e liderança",
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "title": "Orgulho e Preconceito",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "bestseller": true,
+      "description": "Romance clássico sobre Elizabeth Bennet e Mr. Darcy",
+      "rating": 4.6
+    },
+    {
+      "id": 12,
+      "title": "A Culpa é das Estrelas",
+      "author": "John Green",
+      "genre": "Romance",
+      "year": 2012,
+      "bestseller": true,
+      "description": "Romance jovem sobre amor e perda",
+      "rating": 4.2
+    },
+    {
+      "id": 13,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "História",
+      "year": 2011,
+      "bestseller": true,
+      "description": "Uma breve história da humanidade",
+      "rating": 4.5
+    },
+    {
+      "id": 14,
+      "title": "O Mundo de Sofia",
+      "author": "Jostein Gaarder",
+      "genre": "Filosofia",
+      "year": 1991,
+      "bestseller": true,
+      "description": "Romance sobre a história da filosofia",
+      "rating": 4.2
+    },
+    {
+      "id": 15,
+      "title": "Harry Potter e a Pedra Filosofal",
+      "author": "J.K. Rowling",
+      "genre": "Fantasia",
+      "year": 1997,
+      "bestseller": true,
+      "description": "O início da saga do jovem bruxo",
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "title": "O Alquimista",
+      "author": "Paulo Coelho",
+      "genre": "Literatura Brasileira",
+      "year": 1988,
+      "bestseller": true,
+      "description": "Jornada de autodescoberta de um jovem pastor",
+      "rating": 4.0
+    },
+    {
+      "id": 17,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "Biografia",
+      "year": 2011,
+      "bestseller": true,
+      "description": "Biografia autorizada do cofundador da Apple",
+      "rating": 4.3
+    },
+    {
+      "id": 18,
+      "title": "O Assassinato no Expresso do Oriente",
+      "author": "Agatha Christie",
+      "genre": "Mistério",
+      "year": 1934,
+      "bestseller": true,
+      "description": "Clássico mistério com Hercule Poirot",
+      "rating": 4.4
+    },
+    {
+      "id": 19,
+      "title": "Mindset",
+      "author": "Carol Dweck",
+      "genre": "Autoajuda",
+      "year": 2006,
+      "bestseller": true,
+      "description": "A nova psicologia do sucesso",
+      "rating": 4.2
+    },
+    {
+      "id": 20,
+      "title": "Duna",
+      "author": "Frank Herbert",
+      "genre": "Ficção Científica",
+      "year": 1965,
+      "bestseller": true,
+      "description": "Épico de ficção científica no planeta desértico Arrakis",
+      "rating": 4.6
+    },
+    {
+      "id": 21,
+      "title": "O Senhor dos Anéis: A Sociedade do Anel",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasia",
+      "year": 1954,
+      "bestseller": true,
+      "description": "Épico de fantasia na Terra Média",
+      "rating": 4.8
+    },
+    {
+      "id": 22,
+      "title": "Dom Casmurro",
+      "author": "Machado de Assis",
+      "genre": "Literatura Brasileira",
+      "year": 1899,
+      "bestseller": true,
+      "description": "Clássico sobre ciúme e dúvida",
+      "rating": 4.1
+    },
+    {
+      "id": 23,
+      "title": "O Cão dos Baskerville",
+      "author": "Arthur Conan Doyle",
+      "genre": "Mistério",
+      "year": 1902,
+      "bestseller": true,
+      "description": "Aventura de Sherlock Holmes na charneca",
+      "rating": 4.3
+    },
+    {
+      "id": 24,
+      "title": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "História",
+      "year": 2015,
+      "bestseller": true,
+      "description": "Uma breve história do amanhã",
+      "rating": 4.3
+    },
+    {
+      "id": 25,
+      "title": "Meditações",
+      "author": "Marco Aurélio",
+      "genre": "Filosofia",
+      "year": 180,
+      "bestseller": true,
+      "description": "Reflexões filosóficas do imperador romano",
+      "rating": 4.4
+    },
+    {
+      "id": 26,
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "genre": "Romance",
+      "year": 2012,
+      "bestseller": true,
+      "description": "Romance tocante sobre amor e escolhas difíceis",
+      "rating": 4.1
+    },
+    {
+      "id": 27,
+      "title": "O Exorcista",
+      "author": "William Peter Blatty",
+      "genre": "Terror",
+      "year": 1971,
+      "bestseller": true,
+      "description": "Terror sobrenatural sobre possessão demoníaca",
+      "rating": 4.2
+    },
+    {
+      "id": 28,
+      "title": "Os 7 Hábitos das Pessoas Altamente Eficazes",
+      "author": "Stephen Covey",
+      "genre": "Autoajuda",
+      "year": 1989,
+      "bestseller": true,
+      "description": "Guia para desenvolvimento pessoal e profissional",
+      "rating": 4.1
+    },
+    {
+      "id": 29,
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "genre": "Ficção Científica",
+      "year": 1984,
+      "bestseller": true,
+      "description": "Clássico cyberpunk sobre realidade virtual",
+      "rating": 4.1
+    },
+    {
+      "id": 30,
+      "title": "Einstein: Sua Vida, Seu Universo",
+      "author": "Walter Isaacson",
+      "genre": "Biografia",
+      "year": 2007,
+      "bestseller": true,
+      "description": "Biografia completa do físico genial",
+      "rating": 4.2
+    },
+    {
+      "id": 31,
+      "title": "O Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasia",
+      "year": 1937,
+      "bestseller": true,
+      "description": "A jornada de Bilbo Bolseiro até a Montanha Solitária",
+      "rating": 4.5
+    },
+    {
+      "id": 32,
+      "title": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+      "author": "C.S. Lewis",
+      "genre": "Fantasia",
+      "year": 1950,
+      "bestseller": true,
+      "description": "Aventura mágica no mundo de Nárnia",
+      "rating": 4.4
+    },
+    {
+      "id": 33,
+      "title": "Garota Exemplar",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "year": 2012,
+      "bestseller": true,
+      "description": "Thriller psicológico sobre um casamento conturbado",
+      "rating": 4.1
+    },
+    {
+      "id": 34,
+      "title": "O Silêncio dos Inocentes",
+      "author": "Thomas Harris",
+      "genre": "Thriller",
+      "year": 1988,
+      "bestseller": true,
+      "description": "Thriller sobre o FBI e o canibal Hannibal Lecter",
+      "rating": 4.3
+    },
+    {
+      "id": 35,
+      "title": "Drácula",
+      "author": "Bram Stoker",
+      "genre": "Terror",
+      "year": 1897,
+      "bestseller": true,
+      "description": "Clássico do terror sobre o vampiro mais famoso",
+      "rating": 4.2
+    },
+    {
+      "id": 36,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Terror",
+      "year": 1818,
+      "bestseller": true,
+      "description": "O clássico sobre a criatura criada pelo Dr. Frankenstein",
+      "rating": 4.0
+    },
+    {
+      "id": 37,
+      "title": "Fundação",
+      "author": "Isaac Asimov",
+      "genre": "Ficção Científica",
+      "year": 1951,
+      "bestseller": true,
+      "description": "Saga sobre o futuro da humanidade no espaço",
+      "rating": 4.3
+    },
+    {
+      "id": 38,
+      "title": "Admirável Mundo Novo",
+      "author": "Aldous Huxley",
+      "genre": "Ficção Científica",
+      "year": 1932,
+      "bestseller": true,
+      "description": "Distopia sobre uma sociedade controlada pela tecnologia",
+      "rating": 4.1
+    },
+    {
+      "id": 39,
+      "title": "Pense e Enriqueça",
+      "author": "Napoleon Hill",
+      "genre": "Autoajuda",
+      "year": 1937,
+      "bestseller": true,
+      "description": "Clássico sobre mentalidade de sucesso e riqueza",
+      "rating": 4.0
+    },
+    {
+      "id": 40,
+      "title": "O Poder do Hábito",
+      "author": "Charles Duhigg",
+      "genre": "Autoajuda",
+      "year": 2012,
+      "bestseller": true,
+      "description": "Como os hábitos funcionam e como mudá-los",
+      "rating": 4.2
+    },
+    {
+      "id": 41,
+      "title": "Razão e Sensibilidade",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1811,
+      "bestseller": true,
+      "description": "Romance sobre duas irmãs com personalidades opostas",
+      "rating": 4.1
+    },
+    {
+      "id": 42,
+      "title": "Como Eu Era Antes de Você",
+      "author": "Jojo Moyes",
+      "genre": "Romance",
+      "year": 2012,
+      "bestseller": true,
+      "description": "Romance sobre amor, perda e segundas chances",
+      "rating": 4.3
+    },
+    {
+      "id": 43,
+      "title": "Uma Breve História do Tempo",
+      "author": "Stephen Hawking",
+      "genre": "História",
+      "year": 1988,
+      "bestseller": true,
+      "description": "Explicação acessível sobre o universo e o tempo",
+      "rating": 4.2
+    },
+    {
+      "id": 44,
+      "title": "Armas, Germes e Aço",
+      "author": "Jared Diamond",
+      "genre": "História",
+      "year": 1997,
+      "bestseller": true,
+      "description": "Os destinos das sociedades humanas",
+      "rating": 4.1
+    },
+    {
+      "id": 45,
+      "title": "O Mito de Sísifo",
+      "author": "Albert Camus",
+      "genre": "Filosofia",
+      "year": 1942,
+      "bestseller": false,
+      "description": "Ensaio sobre o absurdo da existência humana",
+      "rating": 4.0
+    },
+    {
+      "id": 46,
+      "title": "Assim Falou Zaratustra",
+      "author": "Friedrich Nietzsche",
+      "genre": "Filosofia",
+      "year": 1883,
+      "bestseller": true,
+      "description": "Obra filosófica sobre o super-homem e a vontade de poder",
+      "rating": 4.2
+    },
+    {
+      "id": 47,
+      "title": "Capitães da Areia",
+      "author": "Jorge Amado",
+      "genre": "Literatura Brasileira",
+      "year": 1937,
+      "bestseller": true,
+      "description": "Romance sobre meninos de rua em Salvador",
+      "rating": 4.3
+    },
+    {
+      "id": 48,
+      "title": "O Cortiço",
+      "author": "Aluísio Azevedo",
+      "genre": "Literatura Brasileira",
+      "year": 1890,
+      "bestseller": false,
+      "description": "Retrato da vida urbana no Rio de Janeiro do século XIX",
+      "rating": 3.8
+    },
+    {
+      "id": 49,
+      "title": "E Não Sobrou Nenhum",
+      "author": "Agatha Christie",
+      "genre": "Mistério",
+      "year": 1939,
+      "bestseller": true,
+      "description": "Mistério sobre dez pessoas presas em uma ilha",
+      "rating": 4.5
+    },
+    {
+      "id": 50,
+      "title": "Malala: Minha História",
+      "author": "Malala Yousafzai",
+      "genre": "Biografia",
+      "year": 2013,
+      "bestseller": true,
+      "description": "Autobiografia da ativista paquistanesa",
+      "rating": 4.5
+    },
+    {
+      "id": 51,
+      "title": "O Nome da Rosa",
+      "author": "Umberto Eco",
+      "genre": "Mistério",
+      "year": 1980,
+      "bestseller": true,
+      "description": "Mistério medieval em um mosteiro italiano",
+      "rating": 4.3
+    },
+    {
+      "id": 52,
+      "title": "A Menina que Roubava Livros",
+      "author": "Markus Zusak",
+      "genre": "Romance",
+      "year": 2005,
+      "bestseller": true,
+      "description": "História tocante sobre uma menina na Alemanha nazista",
+      "rating": 4.4
+    },
+    {
+      "id": 53,
+      "title": "O Corvo",
+      "author": "Edgar Allan Poe",
+      "genre": "Terror",
+      "year": 1845,
+      "bestseller": true,
+      "description": "Clássico poema de terror sobre luto e melancolia",
+      "rating": 4.1
+    },
+    {
+      "id": 54,
+      "title": "A Arte da Guerra",
+      "author": "Sun Tzu",
+      "genre": "Filosofia",
+      "year": -500,
+      "bestseller": true,
+      "description": "Tratado militar e filosófico sobre estratégia",
+      "rating": 4.2
+    },
+    {
+      "id": 55,
+      "title": "Blade Runner: Androides Sonham com Ovelhas Elétricas?",
+      "author": "Philip K. Dick",
+      "genre": "Ficção Científica",
+      "year": 1968,
+      "bestseller": true,
+      "description": "Ficção científica sobre androides e humanidade",
+      "rating": 4.0
+    },
+    {
+      "id": 56,
+      "title": "O Pequeno Príncipe",
+      "author": "Antoine de Saint-Exupéry",
+      "genre": "Fantasia",
+      "year": 1943,
+      "bestseller": true,
+      "description": "Fábula poética sobre amizade e humanidade",
+      "rating": 4.6
+    },
+    {
+      "id": 57,
+      "title": "Quem Mexeu no Meu Queijo?",
+      "author": "Spencer Johnson",
+      "genre": "Autoajuda",
+      "year": 1998,
+      "bestseller": true,
+      "description": "Parábola sobre mudança e adaptação",
+      "rating": 3.9
+    },
+    {
+      "id": 58,
+      "title": "Casa-Grande & Senzala",
+      "author": "Gilberto Freyre",
+      "genre": "História",
+      "year": 1933,
+      "bestseller": true,
+      "description": "Análise da formação da sociedade brasileira",
+      "rating": 4.1
+    },
+    {
+      "id": 59,
+      "title": "Iracema",
+      "author": "José de Alencar",
+      "genre": "Literatura Brasileira",
+      "year": 1865,
+      "bestseller": true,
+      "description": "Romance indianista sobre o amor entre Iracema e Martim",
+      "rating": 3.9
+    },
+    {
+      "id": 60,
+      "title": "Nelson Mandela: Uma Biografia",
+      "author": "Anthony Sampson",
+      "genre": "Biografia",
+      "year": 1999,
+      "bestseller": true,
+      "description": "Biografia do líder sul-africano e sua luta contra o apartheid",
+      "rating": 4.4
+    },
+    {
+      "id": 61,
+      "title": "O Processo",
+      "author": "Franz Kafka",
+      "genre": "Filosofia",
+      "year": 1925,
+      "bestseller": true,
+      "description": "Romance existencial sobre burocracia e alienação",
+      "rating": 4.1
+    },
+    {
+      "id": 62,
+      "title": "Cem Anos de Solidão",
+      "author": "Gabriel García Márquez",
+      "genre": "Literatura Brasileira",
+      "year": 1967,
+      "bestseller": true,
+      "description": "Saga familiar na cidade fictícia de Macondo",
+      "rating": 4.5
+    },
+    {
+      "id": 63,
+      "title": "A Metamorfose",
+      "author": "Franz Kafka",
+      "genre": "Filosofia",
+      "year": 1915,
+      "bestseller": true,
+      "description": "Novela sobre transformação e alienação humana",
+      "rating": 4.0
+    },
+    {
+      "id": 64,
+      "title": "O Estrangeiro",
+      "author": "Albert Camus",
+      "genre": "Filosofia",
+      "year": 1942,
+      "bestseller": true,
+      "description": "Romance sobre absurdo e indiferença existencial",
+      "rating": 4.2
+    },
+    {
+      "id": 65,
+      "title": "Jogos Vorazes",
+      "author": "Suzanne Collins",
+      "genre": "Ficção Científica",
+      "year": 2008,
+      "bestseller": true,
+      "description": "Distopia sobre jogos mortais televisionados",
+      "rating": 4.3
+    },
+    {
+      "id": 66,
+      "title": "Divergente",
+      "author": "Veronica Roth",
+      "genre": "Ficção Científica",
+      "year": 2011,
+      "bestseller": true,
+      "description": "Distopia sobre uma sociedade dividida em facções",
+      "rating": 4.1
+    },
+    {
+      "id": 67,
+      "title": "O Labirinto do Fauno",
+      "author": "Guillermo del Toro",
+      "genre": "Fantasia",
+      "year": 2006,
+      "bestseller": true,
+      "description": "Fantasia sombria ambientada na Guerra Civil Espanhola",
+      "rating": 4.2
+    },
+    {
+      "id": 68,
+      "title": "A Sombra do Vento",
+      "author": "Carlos Ruiz Zafón",
+      "genre": "Mistério",
+      "year": 2001,
+      "bestseller": true,
+      "description": "Mistério gótico na Barcelona pós-guerra",
+      "rating": 4.4
+    },
+    {
+      "id": 69,
+      "title": "O Caçador de Pipas",
+      "author": "Khaled Hosseini",
+      "genre": "Romance",
+      "year": 2003,
+      "bestseller": true,
+      "description": "História de amizade e redenção no Afeganistão",
+      "rating": 4.3
+    },
+    {
+      "id": 70,
+      "title": "A Cabana",
+      "author": "William P. Young",
+      "genre": "Romance",
+      "year": 2007,
+      "bestseller": true,
+      "description": "Romance espiritual sobre perda e perdão",
+      "rating": 4.0
+    },
+    {
+      "id": 71,
+      "title": "O Menino do Pijama Listrado",
+      "author": "John Boyne",
+      "genre": "Romance",
+      "year": 2006,
+      "bestseller": true,
+      "description": "História tocante sobre amizade durante o Holocausto",
+      "rating": 4.2
+    },
+    {
+      "id": 72,
+      "title": "Psicose",
+      "author": "Robert Bloch",
+      "genre": "Terror",
+      "year": 1959,
+      "bestseller": true,
+      "description": "Terror psicológico que inspirou o filme de Hitchcock",
+      "rating": 4.1
+    },
+    {
+      "id": 73,
+      "title": "O Chamado de Cthulhu",
+      "author": "H.P. Lovecraft",
+      "genre": "Terror",
+      "year": 1928,
+      "bestseller": true,
+      "description": "Horror cósmico sobre entidades ancestrais",
+      "rating": 4.2
+    },
+    {
+      "id": 74,
+      "title": "Eu Sou a Lenda",
+      "author": "Richard Matheson",
+      "genre": "Terror",
+      "year": 1954,
+      "bestseller": true,
+      "description": "Terror pós-apocalíptico sobre o último homem na Terra",
+      "rating": 4.0
+    },
+    {
+      "id": 75,
+      "title": "O Médico e o Monstro",
+      "author": "Robert Louis Stevenson",
+      "genre": "Terror",
+      "year": 1886,
+      "bestseller": true,
+      "description": "Clássico sobre a dualidade da natureza humana",
+      "rating": 4.1
+    },
+    {
+      "id": 76,
+      "title": "Cidade de Papel",
+      "author": "John Green",
+      "genre": "Romance",
+      "year": 2008,
+      "bestseller": true,
+      "description": "Romance jovem sobre busca e autodescoberta",
+      "rating": 4.0
+    },
+    {
+      "id": 77,
+      "title": "O Apanhador no Campo de Centeio",
+      "author": "J.D. Salinger",
+      "genre": "Romance",
+      "year": 1951,
+      "bestseller": true,
+      "description": "Romance sobre adolescência e alienação",
+      "rating": 4.1
+    },
+    {
+      "id": 78,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Ficção Científica",
+      "year": 1953,
+      "bestseller": true,
+      "description": "Distopia sobre censura e queima de livros",
+      "rating": 4.4
+    },
+    {
+      "id": 79,
+      "title": "Laranja Mecânica",
+      "author": "Anthony Burgess",
+      "genre": "Ficção Científica",
+      "year": 1962,
+      "bestseller": true,
+      "description": "Distopia sobre violência e condicionamento",
+      "rating": 4.0
+    },
+    {
+      "id": 80,
+      "title": "2001: Uma Odisseia no Espaço",
+      "author": "Arthur C. Clarke",
+      "genre": "Ficção Científica",
+      "year": 1968,
+      "bestseller": true,
+      "description": "Épico de ficção científica sobre evolução humana",
+      "rating": 4.2
+    },
+    {
+      "id": 81,
+      "title": "O Guia do Mochileiro das Galáxias",
+      "author": "Douglas Adams",
+      "genre": "Ficção Científica",
+      "year": 1979,
+      "bestseller": true,
+      "description": "Comédia de ficção científica sobre viagens espaciais",
+      "rating": 4.3
+    },
+    {
+      "id": 82,
+      "title": "A Guerra dos Mundos",
+      "author": "H.G. Wells",
+      "genre": "Ficção Científica",
+      "year": 1898,
+      "bestseller": true,
+      "description": "Clássico sobre invasão marciana",
+      "rating": 4.1
+    },
+    {
+      "id": 83,
+      "title": "O Homem Invisível",
+      "author": "H.G. Wells",
+      "genre": "Ficção Científica",
+      "year": 1897,
+      "bestseller": true,
+      "description": "Ficção científica sobre invisibilidade e poder",
+      "rating": 3.9
+    },
+    {
+      "id": 84,
+      "title": "A Máquina do Tempo",
+      "author": "H.G. Wells",
+      "genre": "Ficção Científica",
+      "year": 1895,
+      "bestseller": true,
+      "description": "Pioneiro da ficção científica sobre viagem no tempo",
+      "rating": 4.0
+    },
+    {
+      "id": 85,
+      "title": "O Retrato de Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Filosofia",
+      "year": 1890,
+      "bestseller": true,
+      "description": "Romance sobre vaidade, moralidade e decadência",
+      "rating": 4.3
+    },
+    {
+      "id": 86,
+      "title": "Crime e Castigo",
+      "author": "Fiódor Dostoiévski",
+      "genre": "Filosofia",
+      "year": 1866,
+      "bestseller": true,
+      "description": "Romance psicológico sobre culpa e redenção",
+      "rating": 4.5
+    },
+    {
+      "id": 87,
+      "title": "Os Irmãos Karamázov",
+      "author": "Fiódor Dostoiévski",
+      "genre": "Filosofia",
+      "year": 1880,
+      "bestseller": true,
+      "description": "Obra-prima sobre fé, dúvida e moralidade",
+      "rating": 4.4
+    },
+    {
+      "id": 88,
+      "title": "Guerra e Paz",
+      "author": "Liev Tolstói",
+      "genre": "História",
+      "year": 1869,
+      "bestseller": true,
+      "description": "Épico sobre a Rússia durante as guerras napoleônicas",
+      "rating": 4.6
+    },
+    {
+      "id": 89,
+      "title": "Anna Karenina",
+      "author": "Liev Tolstói",
+      "genre": "Romance",
+      "year": 1877,
+      "bestseller": true,
+      "description": "Tragédia sobre amor e sociedade na Rússia imperial",
+      "rating": 4.4
+    },
+    {
+      "id": 90,
+      "title": "O Grande Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Romance",
+      "year": 1925,
+      "bestseller": true,
+      "description": "Romance sobre o sonho americano nos anos 1920",
+      "rating": 4.2
+    },
+    {
+      "id": 91,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Filosofia",
+      "year": 1851,
+      "bestseller": true,
+      "description": "Épico sobre obsessão e a luta contra a natureza",
+      "rating": 4.1
+    },
+    {
+      "id": 92,
+      "title": "O Sol é Para Todos",
+      "author": "Harper Lee",
+      "genre": "Romance",
+      "year": 1960,
+      "bestseller": true,
+      "description": "Romance sobre justiça e preconceito no sul americano",
+      "rating": 4.5
+    },
+    {
+      "id": 93,
+      "title": "Cem Anos de Solidão",
+      "author": "Gabriel García Márquez",
+      "genre": "Literatura Brasileira",
+      "year": 1967,
+      "bestseller": true,
+      "description": "Realismo mágico sobre a família Buendía",
+      "rating": 4.5
+    },
+    {
+      "id": 94,
+      "title": "O Amor nos Tempos do Cólera",
+      "author": "Gabriel García Márquez",
+      "genre": "Romance",
+      "year": 1985,
+      "bestseller": true,
+      "description": "Romance épico sobre amor duradouro",
+      "rating": 4.3
+    },
+    {
+      "id": 95,
+      "title": "Ágil Mente",
+      "author": "Daniel Kahneman",
+      "genre": "Autoajuda",
+      "year": 2011,
+      "bestseller": true,
+      "description": "Sobre como pensamos e tomamos decisões",
+      "rating": 4.2
+    },
+    {
+      "id": 96,
+      "title": "Pai Rico, Pai Pobre",
+      "author": "Robert Kiyosaki",
+      "genre": "Autoajuda",
+      "year": 1997,
+      "bestseller": true,
+      "description": "Educação financeira e mentalidade de riqueza",
+      "rating": 4.1
+    },
+    {
+      "id": 97,
+      "title": "O Monge e o Executivo",
+      "author": "James C. Hunter",
+      "genre": "Autoajuda",
+      "year": 1998,
+      "bestseller": true,
+      "description": "Liderança servidora e desenvolvimento pessoal",
+      "rating": 4.0
+    },
+    {
+      "id": 98,
+      "title": "Quem Pensa Enriquece",
+      "author": "Napoleon Hill",
+      "genre": "Autoajuda",
+      "year": 1937,
+      "bestseller": true,
+      "description": "Princípios do sucesso e mentalidade positiva",
+      "rating": 4.1
+    },
+    {
+      "id": 99,
+      "title": "A Coragem de Ser Imperfeito",
+      "author": "Brené Brown",
+      "genre": "Autoajuda",
+      "year": 2010,
+      "bestseller": true,
+      "description": "Sobre vulnerabilidade e autenticidade",
+      "rating": 4.3
+    },
+    {
+      "id": 100,
+      "title": "O Poder do Subconsciente",
+      "author": "Joseph Murphy",
+      "genre": "Autoajuda",
+      "year": 1963,
+      "bestseller": true,
+      "description": "Como usar o poder da mente subconsciente",
+      "rating": 4.0
+    }
+  ]
+}
